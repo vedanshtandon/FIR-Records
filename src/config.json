@@ -1,0 +1,14 @@
+{
+    "31337": {
+        "FIRRecord": {
+            "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+        },
+        "explorerURL": "#"
+    },
+    "11155111": {
+        "FIRRecord": {
+            "address": "0x81a117c900a4243ea1872536a1c1ead14a8d66b7"
+        },
+        "explorerURL": "https://sepolia.etherscan.io/"
+    }
+}
